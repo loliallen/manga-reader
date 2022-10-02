@@ -1,0 +1,19 @@
+
+.container {
+    padding: 0 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image {
+    width: 100%;
+    object-fit: contain;
+}
+
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
